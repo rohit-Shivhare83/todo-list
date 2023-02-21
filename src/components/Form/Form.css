@@ -1,0 +1,19 @@
+form{
+    padding: 0 1rem;
+    /* background-color: aqua; */
+}
+input , select{
+    margin: 0.5rem 1rem;
+    
+}
+input{
+    padding: 0.3rem 1rem;
+    /* border: none; */
+    /* outline: 1px solid; */
+}
+label{
+    margin: 0.5rem 1rem;
+}
+.red{
+    color: red;
+}
